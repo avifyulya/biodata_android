@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BiodataActivity</string>
+    <string name="bio_text">Biodata</string>
+</resources>
